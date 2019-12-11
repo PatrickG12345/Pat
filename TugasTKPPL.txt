@@ -1,0 +1,27 @@
+doctype html
+html
+  head
+    meta(charset='utf-8')
+    meta(name='viewport', content='width=device-width, initial-scale=1, maximum-scale=1')
+    title TKPPL
+
+    link(rel='stylesheet', type='text/css', href='build/build.css')
+
+  body
+
+    article.deck
+
+      section
+        h2 Tugas Projek
+        h2 Teknik Kolaborasi Pengembangan Perangkat Lunak
+        h2 Nama Kelompok
+        li Patrick                     161110404
+        li Tommy                       161111256
+        li Ganda Rimses Ranto Samosir  161112871
+        li Kelfin                      161110331
+     section
+        h2 Menurut Anda manakah yang bukan keluarga?
+        img(src="images/tes psikologi.jpg")
+        <a href="#9" style="text-decoration: none"><button class ="tombol">1</button></a>
+        <a href="#10" style="text-decoration: none"><button class ="tombol">2</button></a>
+        <a href="#11" style="text-decoration: none"><button class ="tombol">3</button></a>
