@@ -25,3 +25,20 @@ html
         <a href="#9" style="text-decoration: none"><button class ="tombol">1</button></a>
         <a href="#10" style="text-decoration: none"><button class ="tombol">2</button></a>
         <a href="#11" style="text-decoration: none"><button class ="tombol">3</button></a>
+     section
+        h2 Gambar apa yang pertama kamu lihat?
+        img(src="images/gajah.jpeg")
+        <a href="#12" style="text-decoration: none"><button class ="tombol">Gajah</button></a>
+        <a href="#13" style="text-decoration: none"><button class ="tombol">Tikus</button></a>
+
+     section
+
+        h4 Hampir semua orang akan tertuju dengan gambar gajah yang besar. Jika kamu juga demikian, berarti kamu baik dalam melihat sesuatu dalam gambar secara keseluruhan. Kepribadian ini cenderung baik dalam merencanakan sesuatu meski awalnya banyak diragukan orang.
+        img(src="images/gajah.jpeg")  
+        <a href="#3" style="text-decoration: none"><button class ="tombol">Home</button></a>
+
+     section
+
+       h4 Jika fokus pertama kamu ke seekor tikus, keahlian kamu melihat sesuatu yang detail patut diacungi jempol. Senang melihat hal yang detail sehingga kamu bisa menemukan hal-hal kecil yang tidak diperhatikan orang lain. Dengan kemampuan serta bentuk kepribadian yang seperti ini, kamu cocok menjadi psikiater yang baik.
+       img(src="images/gajah.jpeg")  
+       <a href="#3" style="text-decoration: none"><button class ="tombol">Home</button></a>
